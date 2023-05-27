@@ -1,6 +1,6 @@
 # test2
 
-## Welcome
+## Welcome to second class
 
 ---
 
@@ -11,3 +11,5 @@
 *text*
 
 *italic text*
+
+**bold text**
